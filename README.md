@@ -28,7 +28,7 @@ Le script propose les fonctionnalités suivantes :
 sudo python3 votre_script.py
 ```
 
-Étape 2 : Entrer le PID du Processus
+### Étape 2 : Entrer le PID du Processus
 Lorsque vous exécutez le script, vous serez invité à saisir le PID (Process ID) du processus que vous souhaitez manipuler. Vous pouvez obtenir le PID du jeu Alex4 en cours d'exécution en utilisant la commande suivante :
 
 ```sh
