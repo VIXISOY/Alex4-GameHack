@@ -25,7 +25,7 @@ Le script propose les fonctionnalités suivantes :
 ### Étape 1 : Lancer le Script
 
 ```bash
-sudo python3 votre_script.py
+sudo python3 MemoryHack.py
 ```
 
 ### Étape 2 : Entrer le PID du Processus
